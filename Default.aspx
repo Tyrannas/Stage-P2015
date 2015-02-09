@@ -57,16 +57,10 @@
 									</div>
 								</div>
 								<!-- /Toolbar -->
-							</div>
-                                <div id="my_custom_map class="gmaps"></div> 
-                            <!-- ON VEUT INSERER LA CARTE QUE J'AI DEVELOPPE ICI A LA PLACE DE L'AUTRE MAP QUE J'AI MISE ENTRE COMMENTAIRE
-                            ET QUI EST UNE GMAP NORMALE /!--> 
-                            <!--<div class="widget-content">
-								<div id="gmap_custom" class="gmaps"></div></!-->
-							<!--></div></--!>
-							<%--<div class="widget-content">
-								<div id="gmap_polygon" class="gmaps"></div>
-							</div>--%>
+							
+                                 <div id="map-canvas" class="gmaps" style="height: 100%;">
+                                </div>     
+                           
 						</div>
 					</div>
 			  <!-- /Polygon -->
